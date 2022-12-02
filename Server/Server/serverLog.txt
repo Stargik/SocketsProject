@@ -1,0 +1,8 @@
+Client Connected! |Fri Nov 18 23:02:33 2022
+
+Server received: Who  |Fri Nov 18 23:02:43 2022
+
+Server send: Oleksandr Starzhynskyi, k-28, V6 |Fri Nov 18 23:02:43 2022
+
+Connection closed |Fri Nov 18 23:02:46 2022
+
