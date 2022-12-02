@@ -1,0 +1,7 @@
+Connected!Fri Nov 18 23:02:33 2022
+
+Client send: Who  |Fri Nov 18 23:02:43 2022
+
+Client received: 
+Oleksandr Starzhynskyi, k-28, V6 |Fri Nov 18 23:02:43 2022
+
